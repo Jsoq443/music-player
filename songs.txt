@@ -1,5 +1,0 @@
-Название: "360"
-автор песни: "Charli XCX"
-путь к мп3 файлу: "music/charli_xcx_360.mp3"
-путь к обложке: "covers/charli_xcx_brat.jpg"
-id песни: "1"
